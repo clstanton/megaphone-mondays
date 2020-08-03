@@ -62,9 +62,9 @@ function uploadTransaction() {
             'Content-Type': 'application/json'
             }
         })
-            //.then(response => response.json())
-            .then(res => res.text())          // convert to plain text
-            .then(text => console.log(text))  // then log it out
+            .then(response => response.json())
+            //.then(res => res.text())          // convert to plain text
+            //.then(text => console.log(text))  // then log it out
             .then(serverResponse => {
             if (serverResponse.message) {
                 throw new Error(serverResponse);
