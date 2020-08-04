@@ -20,8 +20,7 @@
 
   * Or, use the live link [here](https://megaphone-mondays.herokuapp.com/). 
     * To test offline functionality (don't refresh the browser), go to the Network tab in DevTools, click the Online tab and select the Offline option, then enter transactions. The budget should still update and when back online, a message will appear stating that "All saved transactions have been submitted!"
-    * To install as a PWA (progressive web app) on Chrome, click on the `+` in top right of the address bar. App can then be found at `chrome://apps`.
+    * To install as a PWA (progressive web app) via Chrome, click on the `+` in top right of the address bar. App can then be found at `chrome://apps`.
 
   ## Questions
-  If you have any questions about this repo, open an issue or contact me directly.
-  * [GitHub - Courtney Stanton](https://github.com/clstanton)
+  If you have any questions about this repo, open an issue or contact me directly at [GitHub - Courtney Stanton](https://github.com/clstanton)!
