@@ -8,7 +8,7 @@
   * [Usage](#usage)
   * [Questions](#questions)
   
-  ![screenshot](https://raw.githubusercontent.com/clstanton/megaphone-mondays/screenshot.PNG)
+  ![screenshot](https://raw.githubusercontent.com/clstanton/megaphone-mondays/screenshot.png)
   
   ## Installation
   To install necessary dependencies, run the following command in your terminal:
